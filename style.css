@@ -1,3 +1,18 @@
+#first {
+    
+    /* max-width: max-content; */
+}
+
+#dragon {
+    width: 30em;
+    height: 15em;
+}
+ #third {
+     color: white;
+ }
+
+ 
+
 ul {
     list-style-type: none;
 }
