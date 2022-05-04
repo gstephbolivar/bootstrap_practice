@@ -1,6 +1,5 @@
-#first {
-    
-    /* max-width: max-content; */
+#firstBtn {
+    width: 120px;
 }
 
 #dragon {
@@ -11,7 +10,15 @@
      color: white;
  }
 
- 
+ #info {
+     margin-top: 5em;
+     padding-top: 5em;
+     padding-bottom: 5em;;
+ }
+
+ .btn-primary {
+     background-color: rgba(234, 160, 23, 0.921);
+ }
 
 ul {
     list-style-type: none;
